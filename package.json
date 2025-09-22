@@ -1,0 +1,20 @@
+{
+  "name": "bot-nanats",
+  "version": "1.0",
+  "description": "hayoloh ngapain😹",
+  "main": "nanats.js",
+  "scripts": {
+    "start": "node nanats.js",
+    "dev": "nodemon nanats.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0"
+  },
+  "keywords": [
+    "telegram",
+    "hentai"
+  ],
+  "author": "nazamsex",
+  "license": "MIT"
+}
